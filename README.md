@@ -66,4 +66,5 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
         2. This is ideal. In situations like these, we average all of the scales togehter and use this number for final analysis. 
         3. In situations where this is not the case, it is recommended you analyze your seeds in batches where scale is similar. This can be achieved worked around in the [advanced ideas section](#advanced-ideas)
 ### Measuring Seeds
-* ImageJ is a robust software package, containing multiple ways to Image
+* ImageJ is a robust software package. With an endless number of ways to analyze images, a user is able to make subtle changes to customize their workflow. In this guide, I will focus on using github's GUI to batch process the images. This was the method utalized in `Population responses to a historic drought across the range of the common monkeyflower (Mimulus guttatus)` More advanced methods utalizing ImageJ's python scripting will can be found in [advanced ideas section](#advanced-ideas)
+
