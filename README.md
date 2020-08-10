@@ -25,4 +25,12 @@ Note the even lighting and high contrast.
 
 <img src="readme_images/BI_1.jpg" width = 200> <img src="readme_images/BI_2.png" width = 200> <img src="readme_images/BI_3.png" width = 200>
 
-Note the blurry image quality, poor lighting, bad contrast and light bleed from a source light that is too bright.
+Note the blurry image quality, poor lighting, bad contrast and light bleed from a source light that is too bright
+
+4. It is important while taking images to have a ruler for scale. 
+    1. In a perfect world the height between your camera and the subject of your photos will never change. 
+    2. We don't live in a perfect world. There will be variablity with how your image is scaled(In one image, a single pixel might be .01mm, while in another it might be .015mm.
+    3. Having a ruler in every picture, or taking a picture of a ruler every few pictures is a great way to keep on track.
+    4. We have found the sweet spot to be taking a picture of a ruler every 6 images. 
+        1. This doubles as a great way to keep track of image IDs.
+        2. On most smartphones it is incredibly time consuming to rename or tag images with any useful information. If the order of the seeds is known, it is trivial to rename images based on the order at which the images come in, and taking a picture of a ruler, with a the number in the list the next or last seed image taken was is a great way to help keep yourself on track!
