@@ -25,4 +25,4 @@ Note the even lighting and high contrast.
 
 <img src="readme_images/BI_1.jpg" width = 200> <img src="readme_images/BI_2.png" width = 200> <img src="readme_images/BI_3.png" width = 200>
 
-Note the blurry image quality, poor lighting, and light bleed from a source light that is too bright.
+Note the blurry image quality, poor lighting, bad contrast and light bleed from a source light that is too bright.
