@@ -1,7 +1,7 @@
 # Measuring seeds using Fiji and other distributions of imageJ
-## By: Ian C. Anderson <iananderson@berkeley.edu> 
+By: Ian C. Anderson <iananderson@berkeley.edu> 
 
-**<ins>Required Materials:</ins>**
+## <ins>Required Materials:</ins>
 
 1. A computer with Windows, MacOS, or Linux.
     1. The Python Operating system(Optional, largely unneccesary)  
@@ -11,7 +11,7 @@
 5. A microscope (optional, but recommended)
 6. A copy of ImageJ, Fiji, or any other distribution of ImageJ 2.0 or above.
 
-**<ins>Getting Started:</ins>**
+### <ins>Getting Started:</ins>
 
 1. The most important part of the image measuring process is collecting good, high quality images.
     1. Even lighting, a high contrast background, a clean workspace free of dust and other non-seed related plant parts are all highly recommended.
@@ -41,3 +41,4 @@ Note the blurry image quality, poor lighting, bad contrast and light bleed from 
 Note how the ruler is straight, the measuring incraments are easy to understand, and the order number is easy to read.    
 
 5. Once you have good images. You are ready to start analyzing!
+#### Imaging
