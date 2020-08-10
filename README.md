@@ -1,4 +1,4 @@
-Measuring seeds using Fiji and other distributions of imageJ
+# Measuring seeds using Fiji and other distributions of imageJ
 
 Required Materials:
 
