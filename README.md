@@ -119,7 +119,8 @@ run("Set Scale...", "distance=D known=K pixel=1 unit=U global");
 
 // Analyzes everything -- appends to results file.
 
-run("Analyze Particles...", "size=0.2-Infinity show=Outlines display exclude summarize");```
+run("Analyze Particles...", "size=0.2-Infinity show=Outlines display exclude summarize"); 
+```
 
 
 ## Data Cleanup
