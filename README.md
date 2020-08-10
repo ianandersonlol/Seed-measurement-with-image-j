@@ -1,5 +1,5 @@
 # Measuring seeds using Fiji and other distributions of imageJ
-By: Ian C. Anderson <iananderson@berkeley.edu> 
+## By: Ian C. Anderson <iananderson@berkeley.edu> 
 
 **<ins>Required Materials:</ins>**
 
@@ -39,3 +39,5 @@ Note the blurry image quality, poor lighting, bad contrast and light bleed from 
     5. Here is an example of a good image of a ruler.
     <img src="readme_images/R1.jpg" width = 400> 
 Note how the ruler is straight, the measuring incraments are easy to understand, and the order number is easy to read.    
+
+5. Once you have good images. You are ready to start analyzing!
