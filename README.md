@@ -102,7 +102,12 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 ### Measuring Seeds
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 * ImageJ is a robust software package. With an endless number of ways to analyze images, a user is able to make subtle changes to customize their workflow. In this guide, I will focus on using ImageJ's GUI to batch process the images. This was the method utalized in `Population responses to a historic drought across the range of the common monkeyflower (Mimulus guttatus)`. More advanced methods utalizing ImageJ's python scripting will be found in [advanced ideas section](#advanced-ideas)
-1. 
+
+1. ImageJ ➡️ Process ➡️ Batch ➡️ Macro - to open the batch processing window.
+
+<img src="readme_images/A1.jpg" width = 300> 
+
+
 ```// Converts the file to an 8-bit image
 run("8-bit");
 
