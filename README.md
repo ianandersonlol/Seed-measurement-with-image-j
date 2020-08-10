@@ -85,10 +85,14 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 1. 
 ## Data Cleanup
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
+
 ## Troubleshooting
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
+
 ## Advanced Ideas
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
+
 ## Acknowledgements
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
+
  <img src="readme_images/excited.gif">
