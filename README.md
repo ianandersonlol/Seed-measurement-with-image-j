@@ -54,7 +54,7 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 2. Open the image of your scale in ImageJ
     1. From within ImageJ click the straight line tool(denoted in red) and mark the two pounds between a known point on your ruler.<img src="readme_images/R3.jpg"> 
         1. Sometimes it is helpful to zoom in to your image to ensure you are hitting the right points. This won't effect the measurement. 
-    2.  ImageJ ➡️ Analyze 
+    2.  ImageJ ➡️ Analyze ➡️ Set Scale  
     <img src="readme_images/R2.jpg" width = 300> 
     
     3. You will be shown the following screen. Record "Distance in Pixels". The known distance is what ever you chose on your ruler. In our the case of the above example, our known distance would be 1/10<sup>th</sup> of an inch or 2.54mm. 
