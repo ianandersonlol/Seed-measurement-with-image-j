@@ -52,7 +52,9 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 
 5. Once you have good images. You are ready to start analyzing!
 ## Analysis
+[Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 ### Scaling Images
+[Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 * There are multiple methods to accomplish this, but we will discuss the method using Fiji/ImageJ. Photoshop is useful and fast, but is prohibitively expensive to many users. Gimp is another free alternative.
 
 1. The first step of the process is manaual. You need to measure your rulers.
