@@ -1,9 +1,9 @@
 # Measuring seeds using Fiji and other distributions of imageJ
 By: Ian C. Anderson <iananderson@berkeley.edu> 
 
-1. [Required Materials](##-Required-Materials)
-2. [Getting Started](##-Getting-Started)
-3. [Imaging](##-Imaging)
+1. [Required Materials](#Required-Materials)
+2. [Getting Started](#Getting-Started)
+3. [Imaging](#Imaging)
 ## Required Materials
 
 1. A computer with Windows, MacOS, or Linux.
