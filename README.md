@@ -51,7 +51,7 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
     1. There are multiple methods to accomplish this, but we will discuss the method using Fiji/ImageJ
     2. Photoshop is useful and fast, but is prohibitively expensive to many users.
 2. Open the image of your scale in ImageJ
-    1. From within ImageJ click the straight line tool(denoted in red) and mark the two pounds between a known point on your ruler.<img src="readme_images/R3.jpg" width = 300> 
+    1. From within ImageJ click the straight line tool(denoted in red) and mark the two pounds between a known point on your ruler.<img src="readme_images/R3.jpg"> 
         1. Sometimes it is helpful to zoom in to your image to ensure you are hitting the right points. This won't effect the measurement. 
     2.  ImageJ ➡️ Analyze 
     <img src="readme_images/R2.jpg" width = 300> 
