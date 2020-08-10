@@ -127,6 +127,15 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 
 <img src="readme_images/A5.jpg" width = 250> <img src="readme_images/A6.jpg" width = 250> <img src="readme_images/A7.jpg" width = 250>
 
+Here are some common examples of issues that can come up in the analysis.
+1. In the first image, we have two seeds that were too close together, so the software considered them one seed. Typically, have a dark shadow between the two of them which seems like a continuation of the seed. 
+
+2. Here we have random noise which was considered a seed. This is likely one of the light remnents discussed in [Threshhold optimization](#Threshhold-optimization).
+
+3. Here we have the crease in the weighboat that was used as a back drop casing a shadow in itself. 
+
+There are programatic ways to deal with many of these issues, all of which discussed in [Advanced Ideas](#advanced-ideas)
+
 ## Troubleshooting
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 
