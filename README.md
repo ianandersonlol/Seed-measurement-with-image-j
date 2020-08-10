@@ -65,7 +65,7 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
     4. Do this for all of your scales.
         1. Ideally, you will see <1% variance between your scales.
         2. This is ideal. In situations like these, we average all of the scales togehter and use this number for final analysis. 
-        3. In situations where this is not the case, it is recommended you analyze your seeds in batches where scale is similar. This can be achieved worked around in the [advanced ideas section](#advanced-ideas)
+        3. In situations where this is not the case, it is recommended you analyze your seeds in batches where the scale is similar. A worked around is seen in the [advanced ideas section](#advanced-ideas)
 ### Threshhold optimization  
 * Different lights, and different backdrops are going to produce vastly different levels of contrast between your seeds and what is behind them. For instance, while a standard weigh boat and a piece of printer paper are both white. The weigh boat's slight opacity causes the weighboat to appear darker on camera than it often does. This is not a problem, but we must figure out the appropraite threshhold for our images. 
 
