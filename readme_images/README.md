@@ -1,2 +1,2 @@
-# Seed measurement with Imagej
-Scripts for measuring seeds using the Fiji distribution of ImageJ 
+#Images stored here to be referenced by the readme
+
