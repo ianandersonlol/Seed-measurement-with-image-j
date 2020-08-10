@@ -4,6 +4,7 @@ By: Ian C. Anderson <iananderson@berkeley.edu>
 1. [Required Materials](#Required-Materials)
 2. [Getting Started](#Getting-Started)
 3. [Imaging](#Imaging)
+    1. [Scaling Images](#Scaling-Images)
 ## Required Materials
 
 1. A computer with Windows, MacOS, or Linux.
@@ -44,7 +45,8 @@ Note the blurry image quality, poor lighting, bad contrast and light bleed from 
 Note how the ruler is straight, the measuring incraments are easy to understand, and the order number is easy to read.    
 
 5. Once you have good images. You are ready to start analyzing!
-## Imaging:
+## Imaging
+### Scaling Images
 1. The first step of the process is manaual. You need to measure your rulers.
     1. There are multiple methods to accomplish this, but we will discuss the method using Fiji/ImageJ
     2. Photoshop is useful and fast, but is prohibitively expensive to many users.
@@ -53,6 +55,7 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
         1. Sometimes it is helpful to zoom in to your image to ensure you are hitting the right points. This won't effect the measurement. 
     2.  ImageJ ➡️ Analyze 
     <img src="readme_images/R2.jpg" width = 300> 
+    
     3. You will be shown the following screen. Record "Distance in Pixels". The known distance is what ever you chose on your ruler. In our the case of the above example, our known distance would be 1/10<sup>th</sup> of an inch or 2.54mm. 
     
     <img src="readme_images/R4.jpg" width = 300> 
