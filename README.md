@@ -31,7 +31,7 @@ Note the even lighting and high contrast.
 
 3. Here are a few examples of poorly taken seed images.
 
-<img src="readme_images/BI_1.jpg" height = 300> <img src="readme_images/BI_2.png" height = 300> <img src="readme_images/BI_3.png" height = 300>
+<img src="readme_images/BI_1.jpg" height = 200> <img src="readme_images/BI_2.png" height = 200> <img src="readme_images/BI_3.png" height = 200>
 
 Note the blurry image quality, poor lighting, bad contrast and light bleed from a source light that is too bright
 
