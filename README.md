@@ -45,3 +45,8 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 
 5. Once you have good images. You are ready to start analyzing!
 ## Imaging:
+1. The first step of the process is manaual. You need to measure your rulers.
+    1. There are multiple methods to accomplish this, but we will discuss the method using Fiji/ImageJ
+    2. Photoshop is useful and fast, but is prohibitively expensive to many users.
+2.  ImageJ ➡️ Analyze
+<img src="readme_images/R2.jpg" width = 300> 
