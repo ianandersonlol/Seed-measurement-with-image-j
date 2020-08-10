@@ -67,10 +67,18 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
         2. This is ideal. In situations like these, we average all of the scales togehter and use this number for final analysis. 
         3. In situations where this is not the case, it is recommended you analyze your seeds in batches where the scale is similar. A worked around is seen in the [advanced ideas section](#advanced-ideas)
 ### Threshhold optimization  
-* Different lights, and different backdrops are going to produce vastly different levels of contrast between your seeds and what is behind them. For instance, while a standard weigh boat and a piece of printer paper are both white. The weigh boat's slight opacity causes the weighboat to appear darker on camera than it often does. This is not a problem, but we must figure out the appropraite threshhold for our images. 
+* Different light sources, and different backdrops are going to produce vastly different levels of contrast between your seeds and what is behind them. For instance, while a standard weigh boat and a piece of printer paper are both white; the weigh boat's slight opacity causes it to appear darker on camera than it does to the eye. This is not a problem, but we must figure out the appropraite threshhold for our images. 
 
 * The threshhold in the included script is set to 168/255. We have found this to be a sweet spot for most images.
-
+1. Open an image you want to analyze.
+2. Convert the image to an 8-bit image.
+3. Click Run threshhold. 
+4. From here, you will be given a slider where you can test different threshholds to find what works best with your seeds. Ultimately 
 ### Measuring Seeds
 * ImageJ is a robust software package. With an endless number of ways to analyze images, a user is able to make subtle changes to customize their workflow. In this guide, I will focus on using ImageJ's GUI to batch process the images. This was the method utalized in `Population responses to a historic drought across the range of the common monkeyflower (Mimulus guttatus)`. More advanced methods utalizing ImageJ's python scripting will can be found in [advanced ideas section](#advanced-ideas)
 1. 
+### Data Cleanup
+### Troubleshooting
+### Adanced Ideas
+### Acknowledgements
+ <img src="readme_images/excited.gif">
