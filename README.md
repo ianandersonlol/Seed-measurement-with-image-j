@@ -15,8 +15,13 @@
         1. Most importantly, having these factors consistent across all images is recommended.
         2. While almost any image can be measured, having variable lighting or contrast between different images will make batch processing difficult if not impossible.
 2. Here are a few examples of well taken seed images. 
+
 <img src="readme_images/GI_1.jpg" width = 300> <img src="readme_images/GI_2.jpg" width = 300> <img src="readme_images/GI_3.jpg" width = 300>
+
 Note the even lighting and high contrast. 
+
 3. Here are a few examples of poorly taken seed images.
+
 <img src="readme_images/BI_1.jpg" width = 300> <img src="readme_images/BI_2.jpg" width = 300> <img src="readme_images/BI_3.jpg" width = 300>
- Note the blurry image quality, poor lighting, and light bleed from a source light that is too bright.
+
+Note the blurry image quality, poor lighting, and light bleed from a source light that is too bright.
