@@ -79,6 +79,6 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 1. 
 ### Data Cleanup
 ### Troubleshooting
-### Adanced Ideas
+### Advanced Ideas
 ### Acknowledgements
  <img src="readme_images/excited.gif">
