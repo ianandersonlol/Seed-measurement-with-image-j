@@ -106,27 +106,13 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 1. ImageJ ➡️ Process ➡️ Batch ➡️ Macro - to open the batch processing window.
 
 <img src="readme_images/A1.jpg" width = 300> 
+2. Open the script using any text editing app and change the values for `D = the distance in pixels, K = What you know the distance represents U = the unit of measurement.` with the measurements you've taken from the scale. 
 
+3. In the batch process window, open the script in the script folder. Then select your input and output directories. In the included examples that would be /example_images/raw/ and /example_images/analyzed
 
-```// Converts the file to an 8-bit image
-run("8-bit");
+<img src="readme_images/A2.jpg" width = 300> 
 
-// Converts the image to a binary image. Seed = black, everything else = white 
-setAutoThreshold("Default");
-run("Threshold...");
-setThreshold(0, 158);
-setOption("BlackBackground", true);
-run("Convert to Mask");
-
-// Set scale -- This is your scale
-
-run("Set Scale...", "distance=D known=K pixel=1 unit=U global");
-
-// Analyzes everything -- appends to results file.
-
-run("Analyze Particles...", "size=0.2-Infinity show=Outlines display exclude summarize"); 
-```
-
+4. Click process, and ImageJ will take care of the rest.
 
 ## Data Cleanup
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
