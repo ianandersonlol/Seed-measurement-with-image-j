@@ -1,8 +1,12 @@
 # Measuring seeds using Fiji and other distributions of imageJ
 By: Ian C. Anderson <iananderson@berkeley.edu> 
+
 <p align="right">
+  
   [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
+  
 </p>
+
 1. [Required Materials](#Required-Materials)
 2. [Getting Started](#Getting-Started)
 3. [Analysis](#Analysis)
