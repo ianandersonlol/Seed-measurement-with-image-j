@@ -121,7 +121,10 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 1. Your output folder will be populated with a visual representation of where imageJ chose where an edge was in the image.
     1. Additionally, all seeds will be given a numeric label to easily search the data sheet.
 2. It is a good practice to look through the output images and look for instances where imageJ is considering something to be a seed when it's not. Remnents as discribed in [Threshhold optimization](#Threshhold-optimization) are a common issue, but non-seed plant material, or other non-seed objects may be included. 
-3. 
+3. Any seeds that were improperly measured, or non-seed objects that were measured should be removed. 
+    1. Once you have the seed number, you can easily remove that line from the results sheet.
+4. Below are some images of seeds that need to be removed. 
+
 ## Troubleshooting
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 
