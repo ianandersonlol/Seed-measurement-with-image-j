@@ -1,5 +1,5 @@
 # Measuring seeds using Fiji and other distributions of imageJ
-By: Ian Anderson <iananderson@berkeley.edu> 
+By: Ian C. Anderson <iananderson@berkeley.edu> 
 
 **<ins>Required Materials:</ins>**
 
