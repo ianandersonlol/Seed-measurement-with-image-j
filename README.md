@@ -106,7 +106,7 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 1. ImageJ ➡️ Process ➡️ Batch ➡️ Macro - to open the batch processing window.
 
 <img src="readme_images/A1.jpg" width = 300> 
-2. Open the script using any text editing app and change the values for `D = the distance in pixels, K = What you know the distance represents U = the unit of measurement.` with the measurements you've taken from the scale. 
+2. Open the script using any text editing app and change the values for `D = the distance in pixels, K = What you know the distance represents U = the unit of measurement. ` with the measurements you've taken from the scale. 
 
 3. In the batch process window, open the script in the script folder. Then select your input and output directories. In the included examples that would be /example_images/raw/ and /example_images/analyzed
 
