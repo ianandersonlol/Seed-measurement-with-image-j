@@ -47,6 +47,7 @@ Note the blurry image quality, poor lighting, bad contrast and light bleed from 
         1. This doubles as a great way to keep track of image IDs.
         2. On most smartphones it is incredibly time consuming to rename or tag images with any useful information. If the order of the seeds is known, it is trivial to rename images based on the order at which the images come in, and taking a picture of a ruler, with a the number in the list the next or last seed image taken was is a great way to help keep yourself on track!
     5. Here is an example of a good image of a ruler.
+    
     <img src="readme_images/R1.jpg" width = 400> 
 Note how the ruler is straight, the measuring incraments are easy to understand, and the order number is easy to read.    
 
@@ -89,6 +90,7 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 4. From here, you will be given a slider where you can test different threshholds to find what fits best with your seeds. Your goal is to get it to a point where the seeds (or other plant material) are easily differentiable from the background. Let's take a look at the following example images.
 
 <img src="readme_images/M5.jpg" width = 250> <img src="readme_images/M4.jpg" width = 250> <img src="readme_images/M3.jpg" width = 250>
+
 <sub> Depending on your screen size, it might be hard to look at the subtle differences between these images. The you can always click on an image to view it in full size, but the browser extension "Hoverzoom" may be useful. </sub>
 
 ### Measuring Seeds
