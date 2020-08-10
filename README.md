@@ -5,7 +5,8 @@ By: Ian C. Anderson <iananderson@berkeley.edu>
 2. [Getting Started](#Getting-Started)
 3. [Analysis](#Analysis)
     1. [Scaling Images](#Scaling-Images)
-    2. [Measuring Seeds](#Measuring-Seeds)
+    2. [Threshhold optimization](#Threshhold-optimization)
+    3. [Measuring Seeds](#Measuring-Seeds)
 ## Required Materials
 
 1. A computer with Windows, MacOS, or Linux.
@@ -65,6 +66,11 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
         1. Ideally, you will see <1% variance between your scales.
         2. This is ideal. In situations like these, we average all of the scales togehter and use this number for final analysis. 
         3. In situations where this is not the case, it is recommended you analyze your seeds in batches where scale is similar. This can be achieved worked around in the [advanced ideas section](#advanced-ideas)
+### Threshhold optimization  
+* Different lights, and different backdrops are going to produce vastly different levels of contrast between your seeds and what is behind them. For instance, while a standard weigh boat and a piece of printer paper are both white. The weigh boat's slight opacity causes the weighboat to appear darker on camera than it often does. This is not a problem, but we must figure out the appropraite threshhold for our images. 
+
+The threshhold in the included script is set to 168/255. We have found this to be a sweet spot for most images.
+
 ### Measuring Seeds
 * ImageJ is a robust software package. With an endless number of ways to analyze images, a user is able to make subtle changes to customize their workflow. In this guide, I will focus on using ImageJ's GUI to batch process the images. This was the method utalized in `Population responses to a historic drought across the range of the common monkeyflower (Mimulus guttatus)`. More advanced methods utalizing ImageJ's python scripting will can be found in [advanced ideas section](#advanced-ideas)
 1. 
