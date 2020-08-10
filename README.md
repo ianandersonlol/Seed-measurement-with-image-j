@@ -48,9 +48,8 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 5. Once you have good images. You are ready to start analyzing!
 ## Analysis
 ### Scaling Images
-There are multiple methods to accomplish this, but we will discuss the method using Fiji/ImageJ
-Photoshop is useful and fast, but is prohibitively expensive to many users.
-Gimp is another free alternative.
+* There are multiple methods to accomplish this, but we will discuss the method using Fiji/ImageJ. Photoshop is useful and fast, but is prohibitively expensive to many users. Gimp is another free alternative.
+
 1. The first step of the process is manaual. You need to measure your rulers.
 2. Open the image of your scale in ImageJ
     1. From within ImageJ click the straight line tool(denoted in red) and mark the two pounds between a known point on your ruler.<img src="readme_images/R3.jpg"> 
@@ -67,4 +66,4 @@ Gimp is another free alternative.
         2. This is ideal. In situations like these, we average all of the scales togehter and use this number for final analysis. 
         3. In situations where this is not the case, it is recommended you analyze your seeds in batches where scale is similar. This can be achieved worked around in the [advanced ideas section](#advanced-ideas)
 ### Measuring Seeds
-I
+* ImageJ is a robust software package, containing multiple ways to Image
