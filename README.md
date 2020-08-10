@@ -3,7 +3,7 @@ By: Ian C. Anderson <iananderson@berkeley.edu>
 
 1. [Required Materials](#Required-Materials)
 2. [Getting Started](#Getting-Started)
-3. [Imaging](#Imaging)
+3. [Analysis](#Analysis)
     1. [Scaling Images](#Scaling-Images)
 ## Required Materials
 
@@ -45,7 +45,7 @@ Note the blurry image quality, poor lighting, bad contrast and light bleed from 
 Note how the ruler is straight, the measuring incraments are easy to understand, and the order number is easy to read.    
 
 5. Once you have good images. You are ready to start analyzing!
-## Imaging
+## Analysis
 ### Scaling Images
 1. The first step of the process is manaual. You need to measure your rulers.
     1. There are multiple methods to accomplish this, but we will discuss the method using Fiji/ImageJ
@@ -59,3 +59,8 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
     3. You will be shown the following screen. Record "Distance in Pixels". The known distance is what ever you chose on your ruler. In our the case of the above example, our known distance would be 1/10<sup>th</sup> of an inch or 2.54mm. 
     
     <img src="readme_images/R4.jpg" width = 300> 
+    
+    4. Do this for all of your scales.
+        1. Ideally, you will see <1% variance between your scales.
+        2. This is ideal. In situations like these, we average all of the scales togehter and use this number for final analysis. 
+        3. In situations where this is not the case, it is recommended you analyze your seeds in batches where scale is similar. This can be achieved worked around in the [Advanced ideas section](#advanced-ideas)
