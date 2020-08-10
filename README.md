@@ -4,7 +4,7 @@ By: Ian Anderson <iananderson@berkeley.edu>
 **<ins>Required Materials:</ins>**
 
 1. A computer with Windows, MacOS, or Linux.
-    1. The Python Operating system(Optional, not recommended) 
+    1. The Python Operating system(Optional, largely unneccesary)  
 2. A camera or smartphone with a camera
 3. A ruler
 4. A stand or other apparatus able to hold camera at consistence distance (very important!)
