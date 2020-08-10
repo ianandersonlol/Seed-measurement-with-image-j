@@ -4,10 +4,12 @@ By: Ian Anderson <iananderson@berkeley.edu>
 **<ins>Required Materials:</ins>**
 
 1. A computer with Windows, MacOS, or Linux.
+    1. The Python Operating system(Optional, not recommended) 
 2. A camera or smartphone with a camera
 3. A ruler
 4. A stand or other apparatus able to hold camera at consistence distance (very important!)
 5. A microscope (optional, but recommended)
+6. A copy of ImageJ, Fiji, or any other distribution of ImageJ 2.0 or above.
 
 **<ins>Getting Started:</ins>**
 
