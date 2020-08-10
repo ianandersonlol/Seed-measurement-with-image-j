@@ -1,6 +1,6 @@
 # Measuring seeds using Fiji and other distributions of imageJ
 
-Required Materials:
+<ins>Required Materials:</ins>
 
 1. A computer with Windows, MacOS, or Linux.
 2. A camera or smartphone with a camera
@@ -8,7 +8,7 @@ Required Materials:
 4. A stand or other apparatus able to hold camera at consistence distance (very important!)
 5. A microscope (optional, but recommended)
 
-Getting Started:
+<ins>Getting Started:</ins>
 
 1. The most important part of the image measuring process is collecting good, high quality images.
   1. Even lighting, a high contrast background, a clean workspace free of dust and other non-seed related plant parts are all highly recommended.
