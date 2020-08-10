@@ -85,7 +85,10 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 3. ImageJ ➡️ Adjust ➡️ Threshhold - To open the Threshhold menu.   
 
 <img src="readme_images/M2.jpg" width = 300> 
+
 4. From here, you will be given a slider where you can test different threshholds to find what works best with your seeds. Ultimately 
+
+
 ### Measuring Seeds
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 * ImageJ is a robust software package. With an endless number of ways to analyze images, a user is able to make subtle changes to customize their workflow. In this guide, I will focus on using ImageJ's GUI to batch process the images. This was the method utalized in `Population responses to a historic drought across the range of the common monkeyflower (Mimulus guttatus)`. More advanced methods utalizing ImageJ's python scripting will be found in [advanced ideas section](#advanced-ideas)
