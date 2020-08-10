@@ -125,6 +125,8 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
     1. Once you have the seed number, you can easily remove that line from the results sheet.
 4. Below are some images of seeds that need to be removed. 
 
+<img src="readme_images/A5.jpg" width = 250> <img src="readme_images/A6.jpg" width = 250> <img src="readme_images/A7.jpg" width = 250>
+
 ## Troubleshooting
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 
