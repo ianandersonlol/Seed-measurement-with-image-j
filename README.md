@@ -112,11 +112,16 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 
 <img src="readme_images/A2.jpg" width = 300> 
 
-4. Click process, and ImageJ will take care of the rest.
+4. Click process, and ImageJ will take care of the rest. Save the results File ➡️ Save.
+    1. ImageJ will create a summary table, while helpful for use at a glance it is mostly unnecessary, as summary statistics can always be calculated later. 
 
 ## Data Cleanup
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
-
+* Now that you have your data, you need to ensure that the data is accurate.
+1. Your output folder will be populated with a visual representation of where imageJ chose where an edge was in the image.
+    1. Additionally, all seeds will be given a numeric label to easily search the data sheet.
+2. It is a good practice to look through the output images and look for instances where imageJ is considering something to be a seed when it's not. Remnents as discribed in [Threshhold optimization](#Threshhold-optimization) are a common issue, but non-seed plant material, or other non-seed objects may be included. 
+3. 
 ## Troubleshooting
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 
