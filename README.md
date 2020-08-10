@@ -38,4 +38,4 @@ Note the blurry image quality, poor lighting, bad contrast and light bleed from 
         2. On most smartphones it is incredibly time consuming to rename or tag images with any useful information. If the order of the seeds is known, it is trivial to rename images based on the order at which the images come in, and taking a picture of a ruler, with a the number in the list the next or last seed image taken was is a great way to help keep yourself on track!
     5. Here is an example of a good image of a ruler.
     <img src="readme_images/R1.jpg" width = 400> 
-   
+Note how the ruler is straight, the measuring incraments are easy to understand, and the order number is easy to read.    
